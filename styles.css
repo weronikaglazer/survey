@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Uchen&display=swap');
+
+body {
+    font-family: 'Uchen', serif;
+    line-height: 1.4;
+    background-color: #D6E3F8;
+    width: 600px;
+    margin: auto;
+    padding: 100px;
+}
+
+h1 , p {
+    text-align: center;
+}
+
+h1 {
+    background-color: #9D5C63;
+    border-radius: 20px;
+    padding: 20px;
+    color: #FEF5EF;
+
+}
+
+form {
+    background-color: #FEF5EF;
+    border-radius: 30px;
+    padding: 40px;
+}
+
+div .submit_button {
+    background: #9D5C63;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    text-align: center;
+    color: #FEF5EF;
+    box-shadow: none;
+    cursor: pointer;
+    margin: auto;
+
+}
+
+.input-headings {
+    margin: 0 auto 1.25rem auto;
+}
+
+.form-inputs {
+    width: 70%;
+    padding: 5px;
+    border-color: #FEF5EF;
+    border-radius: 5px;
+}
+
+.titles {
+    color:#9D5C63
+}
